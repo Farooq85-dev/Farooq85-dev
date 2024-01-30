@@ -1,10 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://alirazaramejo.io)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/527/102/511/programming-code-php-wallpaper-preview.jpg)](https://alirazaramejo.io)
 <h1 align="center">Hi 👋, I'm Muhammad Farooq</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alirazaramejo&label=Profile%20views&color=0e75b6&style=flat" alt="alirazaramejo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Farooq85-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Farooq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alirazaramejo" alt="alirazaramejo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farooq85-dev" alt="Muhammad Farooq" /></a> </p>
 
 - 🌱 I’m currently learning **React js, JavaScript, PHP framework, and another framework**
 
