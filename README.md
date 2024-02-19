@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farooq85-dev" alt="Muhammad Farooq" /></a> </p>
 
-- 🌱 I’m currently learning **React js, JavaScript, PHP framework, and another framework**
+- 🌱 I’m currently learning **JavaScript and firebase.**
 
-- 💬 Ask me about **JavaScript, PWA,Flex,Sweetalert,Moment Js, PHP,HTML, CSS, Bootstrap**
+- 💬 Ask me about **JavaScript,PWA,Flex,Toastr,Lotties,HTML, CSS and Bootstrap.**
 
 - ⚡ Fun fact **LEARN PROGRAMMING IS MY FUN**
 📫 How to reach me **famuhammad907@gmail.com**
