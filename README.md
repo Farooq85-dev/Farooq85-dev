@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Farooq85-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Farooq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farooq85-dev" alt="Muhammad Farooq" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript and firebase.**
 
 - 💬 Ask me about **JavaScript,PWA,Flex,Toastr,Lotties,HTML, CSS and Bootstrap.**
