@@ -76,15 +76,3 @@
 </div>
 
 <br/>
-
-### 😂 Random Dev Meme
-
-<br/>
-
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' alt="Random Dev Meme" style="height: 400px;"/>  
-</div>
-
-<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
