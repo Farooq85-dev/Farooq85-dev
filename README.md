@@ -36,13 +36,13 @@
 <br/>
 
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahadsts9901&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Farooq85-dev&theme=dark&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadsts9901&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farooq85-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
 <br/>
@@ -52,7 +52,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahadsts9901&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=Farooq85-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 <br/>
@@ -72,7 +72,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=ahadsts9901&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+<img src="https://github-contributor-stats.vercel.app/api?username=Farooq85-dev&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
 
 <br/>
