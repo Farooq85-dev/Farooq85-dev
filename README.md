@@ -58,7 +58,7 @@
 <br/>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+<p>Experience is the name everyone gives to their mistakes.</p>
 </div>
 
 <br/>
