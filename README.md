@@ -58,7 +58,7 @@
 <br/>
 
 <div align="center">
-<p>Experience is the name everyone gives to their mistakes.</p>
+<h1>Experience is the name everyone gives to their mistakes.</h1>
 </div>
 
 <br/>
