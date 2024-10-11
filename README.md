@@ -27,6 +27,8 @@
    <a href="https://github.com/Farooq85-dev/github-readme-stats"><img alt="Muhammad Farooq Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Farooq85-dev&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
    <a href="https://github.com/Farooq85-dev/github-readme-stats"><img alt="Muhammad Farooq Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Farooq85-dev&langs_count=8&layout=compact&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
+<p align="center">
+<img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farooq85-dev&theme=apprentice"/>
 </p>
 
 <h3 align="center">
