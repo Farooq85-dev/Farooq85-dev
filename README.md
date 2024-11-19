@@ -52,7 +52,13 @@
   <img src="https://img.shields.io/badge/typescript-52B0E7?style=for-the-badge&logo=react-query&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/vercel-338B2AC?style=for-the-badge&logo=react-query&logoColor=white" alt="vercel" />
   <img src="https://img.shields.io/badge/git-52B0E7?style=for-the-badge&logo=react-query&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Docker-fc6d26?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
+</p>
 
+<h2 align="center">🎯 Currently Learning</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
