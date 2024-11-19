@@ -63,10 +63,10 @@
 
 <h2 align="center">📈 Future Plans</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/reactnative-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/python-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/jango-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/fastapi-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Fast API" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
