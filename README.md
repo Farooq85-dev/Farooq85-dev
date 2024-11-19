@@ -61,6 +61,14 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
+<h2 align="center">📈 Future Plans</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/reactnative-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/python-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/jango-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/fastapi-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Fast API" />
+</p>
+
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farooq85-dev" alt="Muhammad Farooq GitHub Streak Stats"/>
