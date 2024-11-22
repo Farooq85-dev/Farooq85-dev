@@ -59,6 +59,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Prisma-092E20?style=for-the-badge&logo=prisma&logoColor=white" alt="Prsima" />
 </p>
 
 <h2 align="center">📈 Future Plans</h2>
