@@ -47,19 +47,16 @@
   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
+  <img src="https://img.shields.io/badge/prisma-52B0E7?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
   <img src="https://img.shields.io/badge/typescript-52B0E7?style=for-the-badge&logo=react-query&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/vercel-338B2AC?style=for-the-badge&logo=react-query&logoColor=white" alt="vercel" />
   <img src="https://img.shields.io/badge/git-52B0E7?style=for-the-badge&logo=react-query&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/Docker-fc6d26?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
 </p>
 
 <h2 align="center">🎯 Currently Learning</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Prisma-092E20?style=for-the-badge&logo=prisma&logoColor=white" alt="Prsima" />
 </p>
 
 <h2 align="center">📈 Future Plans</h2>
