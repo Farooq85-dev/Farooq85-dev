@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">Hi, I'm Muhammad Farooq</h1>
-<h2 align="center">A passionate Full Stack Developer with a focus on building dynamic web applications using the latest technologies.</h2>
+<h2 align="center">A passionate MERN Stack Developer with a focus on building dynamic web applications using the latest technologies.</h2>
 
 <h3 align="center">
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farooq85-dev&theme=apprentice"/>
