@@ -52,17 +52,19 @@
   <img src="https://img.shields.io/badge/typescript-52B0E7?style=for-the-badge&logo=react-query&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/vercel-338B2AC?style=for-the-badge&logo=react-query&logoColor=white" alt="vercel" />
   <img src="https://img.shields.io/badge/git-52B0E7?style=for-the-badge&logo=react-query&logoColor=white" alt="git" />
+   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 <h2 align="center">🎯 Currently Learning</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+ <img src="https://img.shields.io/badge/DSA-FE7A16?style=for-the-badge&logo=codeforces" alt="DSA" />
+ <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <h2 align="center">📈 Future Plans</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
