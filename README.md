@@ -111,6 +111,11 @@
   </a>
 </p>
 
+<!-- GitHub Graph -->
+<p align="center">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farooq85-dev&bg_color=00ffff&color=ffffff&line=ffffff&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
+
 
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Image"/>
