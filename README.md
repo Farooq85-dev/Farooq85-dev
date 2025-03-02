@@ -29,6 +29,9 @@
   <a href="https://github.com/Farooq85-dev" rel="nofollow">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub">
   </a>
+  <a href="https://www.youtube.com/@codeWithFarooq" rel="nofollow">
+    <img src="https://img.shields.io/static/v1?message=YouTube+Channel&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube Channel">
+</a>
 </p>
 <br/>
 
