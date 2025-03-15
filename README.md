@@ -100,20 +100,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farooq85-dev&theme=highcontrast&hide_border=true" alt="Farooq85-dev's GitHub Stats" />
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <a href="https://github.com/Farooq85-dev/github-readme-stats">
-    <img alt="Muhammad Farooq Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Farooq85-dev&langs_count=100&layout=compact&theme=radical&title_color=FFA500&icon_color=000" height="192px"/>
-  </a>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <a href="https://github.com/Farooq85-dev/github-readme-stats">
-    <img alt="Muhammad Farooq GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Farooq85-dev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&title_color=FFA500&icon_color=FFA500" height="192px"/>
-  </a>
-</p>
-
 <!-- GitHub Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farooq85-dev&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
