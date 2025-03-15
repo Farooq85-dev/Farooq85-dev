@@ -26,7 +26,7 @@
   <a href="mailto:famuhammad907@gmail.com" rel="nofollow">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email">
   </a>
-  <a href="https://github.com/Farooq85-dev" rel="nofollow">
+  <a href="https://github.com/muhammadfarooq85" rel="nofollow">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub">
   </a>
   <a href="https://www.youtube.com/@codeWithFarooq" rel="nofollow">
