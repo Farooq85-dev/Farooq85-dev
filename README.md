@@ -97,7 +97,7 @@
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfarooq85&theme=highcontrast&hide_border=true" alt="Farooq85-dev's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfarooq85&theme=highcontrast&hide_border=true" alt="Muhammad Farooq Github Stats" />
 </p>
 
 <!-- GitHub Graph -->
