@@ -6,9 +6,9 @@
 <h2 align="center">A passionate MERN Stack Developer focused on crafting dynamic, high-performance web applications using cutting-edge technologies.</h2>
 
 <h3 align="center">
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farooq85-dev&theme=apprentice"/>
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadfarooq85&theme=apprentice"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Farooq85-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Farooq Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadfarooq85&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Farooq Profile Views" />
   <br/>
 </h3>
 
@@ -97,11 +97,11 @@
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farooq85-dev&theme=highcontrast&hide_border=true" alt="Farooq85-dev's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfarooq85&theme=highcontrast&hide_border=true" alt="Farooq85-dev's GitHub Stats" />
 </p>
 
 <!-- GitHub Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farooq85-dev&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadfarooq85&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="center">
