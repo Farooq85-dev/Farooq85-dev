@@ -20,7 +20,7 @@
   <a href="https://farooqfolio.vercel.app" rel="nofollow">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-farooq-b71886295/" rel="nofollow">
+  <a href="https://www.linkedin.com/in/muhammadfarooq85" rel="nofollow">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn">
   </a>
   <a href="mailto:famuhammad907@gmail.com" rel="nofollow">
